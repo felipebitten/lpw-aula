@@ -1,0 +1,119 @@
+@font-face {
+  font-family: Bebas;
+  src: url(BebasNeue-Regular.otf);
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#home{
+  background: url(img/torres.jpg) no-repeat center center fixed;
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+}
+
+.landing-text{
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.landing-text h1{
+  font-size: 800%;
+  font-weight: 400;
+  font-family: Bebas;
+  letter-spacing: 10px;
+}
+
+.landing-text h3{
+  font-family: Bebas;
+  letter-spacing: 10px;
+}
+
+.padding {
+  padding: 80px 0;
+}
+
+.padding img{
+  width: 40%;
+  margin-left: 150px;
+}
+
+
+#fixed{
+  background:  url(img/torres.jpg) no-repeat center center fixed;
+  display: table;
+  height: 60%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+}
+
+footer{
+  width: 100%;
+  background-color: #4286f4;
+  padding: 2% 5% 3% 5%;
+  color: black;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 25px !important;
+  color: black;
+}
+
+.fa:hover{
+  color: #D5D5D5;
+  text-decoration: none;
+}
+
+a:hover{
+  color: white;
+  text-decoration: none;
+}
+
+.tudo {
+  height: 100%;
+}
+
+.navbar {
+  background-color: #4286f4;
+  font-family: Bebas;
+  font-size: 20px;
+}
+
+.navbar-brand{
+  color: white;
+  width: 40px;
+}
+
+.nav-link {
+  color: white;
+}
+
+.fotocard {
+  width: 100px;
+  height: 100px;
+}
+
+#titulocard{
+  color: red;
+}
+
+.bebas{
+  font-family: Bebas;
+}
+
+.footercolor{
+  color: white;
+}
+
+#fundodiv{
+  background-color: red;
+  width: 100%;
+}

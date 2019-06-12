@@ -1,0 +1,24 @@
+
+#login{
+    background-color: #3668ba;
+    border-radius: 3%;
+}
+
+.container{
+    vertical-align:center;
+}
+
+.configdiv {
+    margin-top: 5%;
+}
+
+.colorwhite{
+    color: white;
+}
+
+#loginfoto{
+    height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
